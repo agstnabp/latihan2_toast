@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">latihan_2</string>
+    <string name="btn_test_1">Send</string>
+    <string name="btn_test_2">Delete</string>
+</resources>
